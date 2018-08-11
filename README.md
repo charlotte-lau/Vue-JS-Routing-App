@@ -1,6 +1,9 @@
 # Routing in a VueJS Application
 
 
+Website Demo Preview
+<br/>
+<img src="https://raw.githubusercontent.com/charlotte-lau/Vue-JS-Routing-App/master/preview.gif" >
 
 
 ## Build Setup
